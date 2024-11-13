@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B9F86C-6FB8-4282-B4C3-F464B6AA38F3}|POO_Aula4\\POO_Aula4.csproj|c:\\users\\giova\\source\\repos\\poo_aula4\\poo_aula4\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B9F86C-6FB8-4282-B4C3-F464B6AA38F3}|POO_Aula4\\POO_Aula4.csproj|solutionrelative:poo_aula4\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B9F86C-6FB8-4282-B4C3-F464B6AA38F3}|POO_Aula4\\POO_Aula4.csproj|c:\\users\\giova\\source\\repos\\poo_aula4\\poo_aula4\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B9F86C-6FB8-4282-B4C3-F464B6AA38F3}|POO_Aula4\\POO_Aula4.csproj|solutionrelative:poo_aula4\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B9F86C-6FB8-4282-B4C3-F464B6AA38F3}|POO_Aula4\\POO_Aula4.csproj|c:\\users\\giova\\source\\repos\\poo_aula4\\poo_aula4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B9F86C-6FB8-4282-B4C3-F464B6AA38F3}|POO_Aula4\\POO_Aula4.csproj|solutionrelative:poo_aula4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\POO_Aula4\\Estudante.cs",
+              "RelativeDocumentMoniker": "POO_Aula4\\Estudante.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\POO_Aula4\\Estudante.cs",
+              "RelativeToolTip": "POO_Aula4\\Estudante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:53:41.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\POO_Aula4\\Turma.cs",
+              "RelativeDocumentMoniker": "POO_Aula4\\Turma.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\POO_Aula4\\Turma.cs",
+              "RelativeToolTip": "POO_Aula4\\Turma.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:52:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\POO_Aula4\\Program.cs",
+              "RelativeDocumentMoniker": "POO_Aula4\\Program.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\POO_Aula4\\POO_Aula4\\Program.cs",
+              "RelativeToolTip": "POO_Aula4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:49:53.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
